@@ -1,11 +1,11 @@
 # Gradutaion-Project-
-# Wearable Computer Control
+# Wearable Arm Control
 
-**Wearable Computer Controller** is a Computer Engineering graduation project exploring a wearable device for controlling a computer naturally, without relying on a traditional mouse or desk surface.
+**Wearable Arm Controller** is a Computer Engineering graduation project exploring a wearable device for controlling a computer naturally, without relying on a traditional mouse or desk surface.
 
 ## Overview
 
-Wearable Computer Controller aims to provide an alternative way to interact with computers through natural wrist movements and simple muscle gestures.
+Wearable Arm Controller aims to provide an alternative way to interact with computers through natural wrist movements and simple muscle gestures.
 
 The project focuses on making computer interaction more portable, intuitive, and accessible through embedded systems and wearable technology.
 
@@ -32,4 +32,4 @@ Further technical details will be shared as the project progresses.
 
 ---
 
-**TAVE — Wear it. Move naturally. Control digitally.**
+**Wearable Arm Controller — Wear it. Move naturally. Control digitally.**
